@@ -1,0 +1,12 @@
+{
+  "name": "Questify-App",
+  "displayName": "Questify-App",
+  "expo": {
+    "name": "Questify-App",
+    "slug": "Questify-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
